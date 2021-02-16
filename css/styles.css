@@ -1,0 +1,171 @@
+/************************Font CSS************************/
+.playing-guitar{
+  font-family: 'Lobster Two', cursive;
+}
+.gaming{
+  font-family: 'Lobster Two', cursive;
+}
+h1{
+  margin: 80px auto 0 auto;
+  font-family: 'Lobster Two', cursive;
+  font-size: 7rem;
+  color: #66BFBF;
+}
+h2{
+  font-family: 'Lobster Two', cursive;
+  color: #66BFBF;
+
+}
+h3{
+  font-family: 'Lobster Two', cursive;
+  color: #11999E;
+}
+p{
+  font-family: 'Nanum Gothic', sans-serif;
+}
+body{
+margin: 0;
+text-align: center;
+}
+a{
+  font-family: 'Nanum Gothic', sans-serif;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.amazing1{
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size:1.4rem;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+}
+.footer-link{
+  color: #11999E;
+  margin: 0 20px 0 20px;
+  text-decoration: none;
+}
+.end-credits{
+  color: #EAF6F6;
+  font-family: 'Nanum Gothic', sans-serif;
+  margin: 40px 0 0 0;
+  font-size: 14px;
+}
+.btn{
+  margin-top: 30px;
+}
+/************************Divs************************/
+.skills{
+  margin-top: 100px;
+}
+.top-container{
+  padding-top: 100px;
+  background-color: #edf2fb;
+  position: relative;
+}
+.amazing{
+  text-decoration: none;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.profile{
+  width: 50%;
+  margin: 30px auto 100px auto;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 50px 0;
+}
+.contact-me{
+  width: 50%;
+  margin: 100px auto 40px auto;
+}
+/************************Image CSS************************/
+.cloud1{
+  position: absolute;
+  top: 100px;
+  right: 400px;
+}
+.cloud2{
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+.wow{
+  height: 150px;
+  width:230px;
+}
+.guitar{
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+}
+.controller{
+width: 25%;
+float: right;
+margin-left: 50px;
+}
+.dota2{
+  width: 9%;
+  position: relative;
+  top: 20px;
+}
+.league{
+  width: 13%;
+  position: relative;
+  top: 10px;
+}
+/************************HORIZONTAL RULE CSS************************/
+hr{
+  border: 10px;
+  border-style: dotted;
+  border-bottom: none;
+}
+hr{
+    width: 5%;
+    size:0;
+}
+/************************BUTTON CSS************************/
+.btn {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 13px;
+   -moz-border-radius: 13px;
+   border-radius: 13px;
+   color: #FFFFFF;
+   font-family: 'Nanum Gothic', sans-serif;
+   font-size: 16px;
+   font-weight: 100;
+   padding: 10px;
+   /*-webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;*/
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 13px;
+   -moz-border-radius: 13px;
+   border-radius: 13px;
+   text-decoration: none;
+}
